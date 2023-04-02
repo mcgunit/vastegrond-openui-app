@@ -7,7 +7,7 @@ sap.ui.define([
 ], function (Control, RatingIndicator, Label, Button, InvisibleText) {
 	"use strict";
 
-	return Control.extend("sap.ui.demo.walkthrough.control.ProductRating", {
+	return Control.extend("sap.ui.vastegrond.control.ProductRating", {
 
 		metadata: {
 			properties: {
