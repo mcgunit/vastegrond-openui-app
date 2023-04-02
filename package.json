@@ -1,9 +1,9 @@
 {
-  "name": "WalkthroughTutorial",
+  "name": "vastegrond",
   "private": true,
   "version": "1.0.0",
   "author": "SAP SE",
-  "description": "UI5 Demo App - Walkthrough Tutorial",
+  "description": "vastegrond songs",
   "scripts": {
     "start": "ui5 serve",
     "build": "ui5 build"
